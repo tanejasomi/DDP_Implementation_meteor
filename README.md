@@ -1,4 +1,4 @@
-# Distributed Data Protocol Implementation Demo With Meteor
+# Distributed Data Protocol Implementation With Meteor
 
 Distributed Data Protocol is Client-Server Protocol based on WebSockets for queuing and updating a Server-Side database and for synchronizing such updates among clients. Project implemented to show
 
