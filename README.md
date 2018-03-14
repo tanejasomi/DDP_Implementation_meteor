@@ -1,4 +1,5 @@
-# DDP_Meteor_demo
+# Distributed Data Protocol Implementation Demo With Meteor
+
 Distributed Data Protocol is Client-Server Protocol based on WebSockets for queuing and updating a Server-Side database and for synchronizing such updates among clients. Project implemented to show
 
 1)  Latency Compensation: Subscribe and publish functionality: how server polls database to pick up changes and push them on the client therefore updating screen immediately without waiting for network. Since DDP uses WebSockets instead of HTTP, the data can be pushed whenever changes occur. Every time user increments counter by clicking on insert and data is published and updated on server.
